@@ -10,7 +10,7 @@ This project aims to make it very easy to get LineageOS 20 on your Titan.
   * Swipe Left/Right does not work
   
 * Headphone jack does not work
-* NFC Contactless payment (untested)
+* Sim-based NFC Contactless payment
 * FM Radio does not work
 * Long Press Button menu broken
 * Kika Input Suggestions and Auto Correct do not function
