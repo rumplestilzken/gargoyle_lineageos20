@@ -1,4 +1,4 @@
-# titan_lineageos20
+# rumplestilzken's gargoyle GSI
 
 ## About
 This project aims to make it very easy to get LineageOS 20 on your Titan.
