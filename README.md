@@ -5,7 +5,7 @@ This project aims to make it very easy to get LineageOS 20 on your Titan.
 
 ## Known Issues
 
-* Touchpad 
+* Touchpad - currently disabled
 
   * Swipe Left/Right does not work
   
