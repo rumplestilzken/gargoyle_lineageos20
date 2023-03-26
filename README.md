@@ -19,26 +19,18 @@ This project aims to make it very easy to get LineageOS 20 on your Titan.
   * Google Play Store can be installed with [wacko's Magisk module](https://github.com/wacko1805/MagiskGapps) on the bvn version if wanted.
   
 # Credits
-
-CatWithCode
-
-SolidHal
-
-AndyYan
+* CatWithCode
+* SolidHal
+* AndyYan
 
 # Testers
 
-tommel2
-
-Randy_
-
-SuYe
-
-33YN2
-
-g.benkaliuk
-
-Jenser
-
-cipharius
+* tommel2
+* Randy_
+* SuYe
+* 33YN2
+* g.benkaliuk
+* Jenser
+* cipharius
+* ScentedOrange
   
