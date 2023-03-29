@@ -33,4 +33,10 @@ This project aims to make it very easy to get LineageOS 20 on your Titan.
 * Jenser
 * cipharius
 * ScentedOrange
+
+# Generous Contributions
+
+* Jenser
+* Nomi
+* 33YN2
   
