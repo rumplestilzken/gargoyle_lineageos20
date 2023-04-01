@@ -14,6 +14,8 @@ This project aims to make it very easy to get LineageOS 20 on your Titan.
 * Long Press Button menu broken
 * Kika Input Suggestions and Auto Correct do not function
 
+*Networking (mobile data, wifi) is currently unsupported.
+
 * Notes
   * Google Play Store can be installed with [wacko's Magisk module](https://github.com/wacko1805/MagiskGapps) on the bvn version if wanted.
   
