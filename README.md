@@ -7,8 +7,6 @@ This project aims to make it very easy to get LineageOS 20 on your Unihertz devi
 
 * Touchpad - currently unsupported
   * Swipe Left/Right does not work
-* Headphone jack does not work
-* USB-C Audio jack does not work
 * Sim-based NFC Contactless payment
 * FM Radio does not work
 * Long Press Button menu broken
