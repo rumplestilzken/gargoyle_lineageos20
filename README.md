@@ -11,6 +11,7 @@ This project aims to make it very easy to get LineageOS 20 on your Unihertz devi
 * FM Radio does not work
 * Long Press Button menu broken
 * Kika Input Suggestions and Auto Correct do not function
+* Miracast does not work properly
 
 * Notes
   * Google Play Store can be installed with [wacko's Magisk module](https://github.com/wacko1805/MagiskGapps) on the bvn version if wanted. If you get a "Not Certified" warning [register with google](https://www.google.com/android/uncertified/) and within a few minutes your Google Play will work.
